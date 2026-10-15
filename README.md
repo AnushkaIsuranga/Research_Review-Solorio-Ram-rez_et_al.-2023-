@@ -1,9 +1,7 @@
 # SDSS Stellar Classification: Audit and Corrected Model
 
-Coursework for KIC-BSCCSAI-001 (Machine Learning). It audits and re-implements
-Solorio-Ramírez et al. (2023), *Algorithms* 16(6), 293, which classifies SDSS
-objects (GALAXY / QSO / STAR) with a Random Forest on the DR14, DR16 and DR17
-releases.
+Student Index: KIC-BSCCSAI-001 (Machine Learning). 
+Seected Research: Solorio-Ramírez et al. (2023), *Algorithms* 16(6), 293
 
 ## Contents
 
@@ -16,7 +14,6 @@ releases.
 | `outputs/tables/`, `outputs/figures/` | Every exported table (`.csv`) and figure (`.png`) |
 | `outputs/run_log.md` | Machine, versions, timings and a factual summary of the latest full run |
 | `Datasets/` | SDSS DR14, DR16 and DR17 CSVs (10k / 100k / 100k rows) |
-| `Docs/` | Source paper, coursework brief and report |
 
 ## Setup
 
