@@ -1,0 +1,4 @@
+,Dataset,b_RF_right_HGB_wrong,c_RF_wrong_HGB_right,p,best_params
+0,DR14,11,4,0.12133525035848207,"{""m__class_weight"": null, ""m__l2_regularization"": 3.3958778560401715e-06, ""m__learning_rate"": 0.18960172888460688, ""m__max_depth"": 6, ""m__max_features"": 0.5, ""m__max_iter"": 804, ""m__max_leaf_nodes"": 246, ""m__min_samples_leaf"": 150}"
+1,DR16,77,11,4.237560695350291e-12,"{""m__class_weight"": null, ""m__l2_regularization"": 0.01330333672012247, ""m__learning_rate"": 0.01701183677741866, ""m__max_depth"": 8, ""m__max_features"": 0.7, ""m__max_iter"": 244, ""m__max_leaf_nodes"": 110, ""m__min_samples_leaf"": 106}"
+2,DR17,77,50,0.021047745372620393,"{""m__class_weight"": null, ""m__l2_regularization"": 0.0624798094273778, ""m__learning_rate"": 0.10742743309661942, ""m__max_depth"": null, ""m__max_features"": 0.7, ""m__max_iter"": 212, ""m__max_leaf_nodes"": 116, ""m__min_samples_leaf"": 12}"

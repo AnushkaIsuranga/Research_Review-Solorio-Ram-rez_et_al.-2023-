@@ -1,0 +1,33 @@
+# Environments
+.venv/
+venv/
+
+# Python / Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.ipython/
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock and temp files
+~$*
+~WRL*.tmp
+*.tmp
+
+# Documents
+Docs/
+
+# Local scratch
+_archive/
+_to_delete/
+
+*.parquet
+
+# Cached heavy results
+cache/

@@ -1,0 +1,7 @@
+algorithm,paper_table5_value
+RandomForest,1.333
+IB1,2.333
+NaiveBayes,3.000
+SMO,3.333
+MLP,5.000
+IB3,6.000

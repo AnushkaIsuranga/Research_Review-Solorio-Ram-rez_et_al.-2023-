@@ -1,0 +1,10 @@
+dataset,metric,NaiveBayes,IB1,IB3,SVM_SMO,MLP,RandomForest,source
+DR14,sensitivity,0.9409,0.8581,0.8466,0.9080,0.9710,0.9792,Paper Table 2 (p. 10)
+DR14,specificity,0.9685,0.9251,0.9250,0.9433,0.9845,0.9940,Paper Table 2
+DR14,balanced_accuracy,0.9547,0.8916,0.8858,0.9256,0.9777,0.9866,Paper Table 2
+DR16,sensitivity,0.9630,0.8515,0.8544,0.9433,0.9788,0.9783,Paper Table 3 (p. 12)
+DR16,specificity,0.9862,0.9243,0.9261,0.9676,0.9898,0.9940,Paper Table 3
+DR16,balanced_accuracy,0.9746,0.8879,0.8858,0.9554,0.9843,0.9861,Paper Table 3
+DR17,sensitivity,0.6329,0.8185,0.8022,0.9313,0.9657,0.9756,Paper Table 4 (p. 12)
+DR17,specificity,0.8108,0.9057,0.8988,0.9636,0.9818,0.9874,Paper Table 4
+DR17,balanced_accuracy,0.7219,0.8621,0.8505,0.9474,0.9738,0.9815,Paper Table 4
