@@ -1,7 +1,7 @@
 # SDSS Stellar Classification: Audit and Corrected Model
 
-Student Index: KIC-BSCCSAI-001 (Machine Learning)
-Selected Research: Solorio-Ramírez et al. (2023), *Algorithms* 16(6), 293
+- Student Index: KIC-BSCCSAI-001 (Machine Learning)
+- Selected Research: Solorio-Ramírez et al. (2023), *Algorithms* 16(6), 293
 
 ## Contents
 
